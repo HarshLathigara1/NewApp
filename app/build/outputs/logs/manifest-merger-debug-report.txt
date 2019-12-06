@@ -1,0 +1,500 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:2:1-19:12
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\366d380104740dee62e21f4cad12e8b4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7626420de1d1315c93eed8db5e4eeab7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f3173d3647f8982f78f12a0896b3b04\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:17:1-42:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\757e0661c60184d473fd85e49e773c5f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:15:1-36:12
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-storage-4.3.1.aar\d32b74b4e464163307c3683fac19aa34\AndroidManifest.xml:2:1-11:12
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\compressor-2.0.0.aar\eb13a156c47b645064ca8d084abd741d\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:15:1-37:12
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b2cbdca1e9ae9cef9cb62be0395af6cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5eb96ed8df5867f741cc99e5fea6490e\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\29be481867e5dbde756ffc4232ba25d0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-17.0.0.aar\597bb7780bacac5419e5e16b8b1b104f\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\fae1f178868ed490784e3787ced2d24c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b29bf2c24740ef3511fad4fe5a770eb7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\4d3337a5a0939f221dbb224504281a80\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\4b3e0a355e3165e8990a4fa526e28fcb\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\ee571d10e94e58f500661cf3f4b26e7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b21834a718fa262d9995ed5d94824cd1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5f80de849b7106863475063a5284e337\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fd89e3cb4f3971eaa5741918cfcb60a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0e1e5ffa5bd25c3803d29ca1dea4dd1f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d297e47c86c750094cbc93a88f37c6da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f7527d95be15ba9c897935d0d96d494a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c6d312219aef81a4d2618c841fb0ab68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\19ad9f3d53ca6d315a5b1b0e3d0d9035\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\12ca06f9960f812d26cad62f411275a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\24b742ea1fa9f27a9d28db0c2b414f42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f376735a8c5f08c9b25d1d57e310d69a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bebb691f0e6f4c825689f9b720490dd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5eeb649413514fb36bc34fb3d3efd819\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a29a69f9ce769d81ab828678d75ecad3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1f8a4ab9ec93609b86177e225920a2f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\77f3c714e4480be5523850c055267416\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a4a82879a6454cc3099302f465ca7d7d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4fde779fdb45bc19b310d0ebf1fb3b21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a1a1701a54ad337fad6eec17f160f443\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6cd216decfbc234f47a7a1585ce4cc84\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5fae188424d172265b0886ba5f600ecc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a73335205ae443ffd8cb269b93b11c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8a02eddcbfbb0f1641068b96b0c40fbd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\210e6cbe189683b57b936981dd8d5431\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1abca908a6fece84eee2a8c8850c9b3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bbb6958dc87a4b6db3ac6212b4442470\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1637c7baaa1aec197da2da6230080c8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\40f1a9baa1e9bb1aaf8b4229eebdcc9b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3bc3c5e3e31784cbab85b2569b67d659\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\99454999356164e9f60219d5d4d26830\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:1-67:12
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:5:5-80
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:11:5-80
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:12:5-81
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:9:5-65:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:13:5-17:19
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:14:5-18:19
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\366d380104740dee62e21f4cad12e8b4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\366d380104740dee62e21f4cad12e8b4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f3173d3647f8982f78f12a0896b3b04\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f3173d3647f8982f78f12a0896b3b04\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:23:5-40:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\757e0661c60184d473fd85e49e773c5f\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\757e0661c60184d473fd85e49e773c5f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:29:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:22:5-35:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5eb96ed8df5867f741cc99e5fea6490e\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5eb96ed8df5867f741cc99e5fea6490e\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-17.0.0.aar\597bb7780bacac5419e5e16b8b1b104f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-17.0.0.aar\597bb7780bacac5419e5e16b8b1b104f\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\fae1f178868ed490784e3787ced2d24c\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\fae1f178868ed490784e3787ced2d24c\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b29bf2c24740ef3511fad4fe5a770eb7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b29bf2c24740ef3511fad4fe5a770eb7\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\4d3337a5a0939f221dbb224504281a80\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\4d3337a5a0939f221dbb224504281a80\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\4b3e0a355e3165e8990a4fa526e28fcb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\4b3e0a355e3165e8990a4fa526e28fcb\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\77f3c714e4480be5523850c055267416\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\77f3c714e4480be5523850c055267416\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a4a82879a6454cc3099302f465ca7d7d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a4a82879a6454cc3099302f465ca7d7d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1abca908a6fece84eee2a8c8850c9b3a\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1abca908a6fece84eee2a8c8850c9b3a\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\77f3c714e4480be5523850c055267416\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:10:9-31
+activity#com.example.newapp.ForgetPasswordActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:17:19-57
+activity#com.example.newapp.PhoneLoginActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:18:19-53
+activity#com.example.newapp.ChatActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:19:9-21:58
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:21:13-55
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.example.newapp.TestActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:22:19-47
+activity#com.example.newapp.WeatherActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:23:9-25:58
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:24:13-44
+service#com.example.newapp.FirebaseMessagingService
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:27:9-33:19
+	android:exported
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:28:13-53
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:30:13-32:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:31:17-78
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:31:25-75
+activity#com.example.newapp.ProfileActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:35:19-50
+intent-filter#action:name:com.example.newapp_TARGET_NOTIFICATION+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:36:13-40:29
+action#com.example.newapp_TARGET_NOTIFICATION
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:37:25-78
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:39:27-73
+activity#com.example.newapp.UsersActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:42:9-44:58
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:44:13-55
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:43:13-42
+activity#com.example.newapp.StatusActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:45:9-47:62
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:47:13-59
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:46:13-43
+activity#com.example.newapp.SettingsActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:48:9-50:58
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:50:13-55
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:49:13-45
+activity#com.example.newapp.LoginActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:51:9-53:59
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:52:13-42
+activity#com.example.newapp.RegisterActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:54:9-56:59
+	android:parentActivityName
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:56:13-56
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:55:13-45
+activity#com.example.newapp.StartActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:57:9-51
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:57:19-48
+activity#com.example.newapp.MainActivity
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:58:9-64:20
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:58:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:59:13-63:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:62:17-77
+	android:name
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml:62:27-74
+uses-sdk
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:7:5-9:41
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\silicompressor-2.0.aar\4b3b6e145468b2d5f81de7b4d92edb06\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\366d380104740dee62e21f4cad12e8b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\366d380104740dee62e21f4cad12e8b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7626420de1d1315c93eed8db5e4eeab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\7626420de1d1315c93eed8db5e4eeab7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f3173d3647f8982f78f12a0896b3b04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2f3173d3647f8982f78f12a0896b3b04\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:21:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\757e0661c60184d473fd85e49e773c5f\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\circleimageview-3.0.0.aar\757e0661c60184d473fd85e49e773c5f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:19:5-21:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-storage-4.3.1.aar\d32b74b4e464163307c3683fac19aa34\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-storage:4.3.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-storage-4.3.1.aar\d32b74b4e464163307c3683fac19aa34\AndroidManifest.xml:7:5-9:41
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\compressor-2.0.0.aar\eb13a156c47b645064ca8d084abd741d\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\compressor-2.0.0.aar\eb13a156c47b645064ca8d084abd741d\AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b2cbdca1e9ae9cef9cb62be0395af6cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\b2cbdca1e9ae9cef9cb62be0395af6cb\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5eb96ed8df5867f741cc99e5fea6490e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\5eb96ed8df5867f741cc99e5fea6490e\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\29be481867e5dbde756ffc4232ba25d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-flags-16.0.1.aar\29be481867e5dbde756ffc4232ba25d0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-17.0.0.aar\597bb7780bacac5419e5e16b8b1b104f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-17.0.0.aar\597bb7780bacac5419e5e16b8b1b104f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\fae1f178868ed490784e3787ced2d24c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.1.aar\fae1f178868ed490784e3787ced2d24c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b29bf2c24740ef3511fad4fe5a770eb7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\b29bf2c24740ef3511fad4fe5a770eb7\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\4d3337a5a0939f221dbb224504281a80\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-17.0.1.aar\4d3337a5a0939f221dbb224504281a80\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\4b3e0a355e3165e8990a4fa526e28fcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-stats-16.0.1.aar\4b3e0a355e3165e8990a4fa526e28fcb\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\ee571d10e94e58f500661cf3f4b26e7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\ee571d10e94e58f500661cf3f4b26e7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b21834a718fa262d9995ed5d94824cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b21834a718fa262d9995ed5d94824cd1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5f80de849b7106863475063a5284e337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5f80de849b7106863475063a5284e337\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fd89e3cb4f3971eaa5741918cfcb60a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\fd89e3cb4f3971eaa5741918cfcb60a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0e1e5ffa5bd25c3803d29ca1dea4dd1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0e1e5ffa5bd25c3803d29ca1dea4dd1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d297e47c86c750094cbc93a88f37c6da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\d297e47c86c750094cbc93a88f37c6da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f7527d95be15ba9c897935d0d96d494a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\f7527d95be15ba9c897935d0d96d494a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c6d312219aef81a4d2618c841fb0ab68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\c6d312219aef81a4d2618c841fb0ab68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\19ad9f3d53ca6d315a5b1b0e3d0d9035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\19ad9f3d53ca6d315a5b1b0e3d0d9035\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\12ca06f9960f812d26cad62f411275a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\12ca06f9960f812d26cad62f411275a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\24b742ea1fa9f27a9d28db0c2b414f42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\24b742ea1fa9f27a9d28db0c2b414f42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f376735a8c5f08c9b25d1d57e310d69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\f376735a8c5f08c9b25d1d57e310d69a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bebb691f0e6f4c825689f9b720490dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\bebb691f0e6f4c825689f9b720490dd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5eeb649413514fb36bc34fb3d3efd819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\5eeb649413514fb36bc34fb3d3efd819\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a29a69f9ce769d81ab828678d75ecad3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\a29a69f9ce769d81ab828678d75ecad3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1f8a4ab9ec93609b86177e225920a2f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1f8a4ab9ec93609b86177e225920a2f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\77f3c714e4480be5523850c055267416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\77f3c714e4480be5523850c055267416\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a4a82879a6454cc3099302f465ca7d7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a4a82879a6454cc3099302f465ca7d7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4fde779fdb45bc19b310d0ebf1fb3b21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4fde779fdb45bc19b310d0ebf1fb3b21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a1a1701a54ad337fad6eec17f160f443\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\a1a1701a54ad337fad6eec17f160f443\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6cd216decfbc234f47a7a1585ce4cc84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\6cd216decfbc234f47a7a1585ce4cc84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5fae188424d172265b0886ba5f600ecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\5fae188424d172265b0886ba5f600ecc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a73335205ae443ffd8cb269b93b11c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\a73335205ae443ffd8cb269b93b11c3d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8a02eddcbfbb0f1641068b96b0c40fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\8a02eddcbfbb0f1641068b96b0c40fbd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\210e6cbe189683b57b936981dd8d5431\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\210e6cbe189683b57b936981dd8d5431\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1abca908a6fece84eee2a8c8850c9b3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\1abca908a6fece84eee2a8c8850c9b3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bbb6958dc87a4b6db3ac6212b4442470\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\bbb6958dc87a4b6db3ac6212b4442470\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1637c7baaa1aec197da2da6230080c8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1637c7baaa1aec197da2da6230080c8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\40f1a9baa1e9bb1aaf8b4229eebdcc9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\40f1a9baa1e9bb1aaf8b4229eebdcc9b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3bc3c5e3e31784cbab85b2569b67d659\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\3bc3c5e3e31784cbab85b2569b67d659\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\99454999356164e9f60219d5d4d26830\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-16.0.1.aar\99454999356164e9f60219d5d4d26830\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\BholeSai\Downloads\NewApp\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.1.0.aar\e39d1f1d5e815cfe58ffa5a467cadef6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-ui-database-1.2.0.aar\785dd80bf5579861091d5b290395a3b1\AndroidManifest.xml:15:13-58
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:29:9-33:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:30:9-34:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-auth-17.0.0.aar\bc74afdc6960bf5e0d567e926b0a5657\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-database-17.0.0.aar\faa15e6ea3fbcc45b25b3dee197299cd\AndroidManifest.xml:31:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-storage-17.0.0.aar\e8c019b444a1db34e42f9466867b2fd8\AndroidManifest.xml:32:17-107
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-messaging-18.0.0.aar\cc5077b5e9ef56e9cda6146653069506\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:18.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-iid-18.0.0.aar\3cd00b124c53004b89ab55018475af98\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\4fc885d83c9aed6536854ab1dc6e969b\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\BholeSai\.gradle\caches\transforms-1\files-1.1\firebase-common-17.0.0.aar\cca407b2ac3ca2a7959f04ee31109491\AndroidManifest.xml:13:13-77

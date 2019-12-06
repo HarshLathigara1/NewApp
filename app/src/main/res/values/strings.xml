@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewApp</string>
+    <string name="logout">LogOut</string>
+    <string name="settings">Settings</string>
+    <string name="accountSettings">AccountSettings</string>
+    <string name="request">Request</string>
+    <string name="chats">Chats</string>
+    <string name="friends">Friends</string>
+    <string name="mainPage">Main Page</string>
+    <string name="displayname">DisplayName</string>
+</resources>

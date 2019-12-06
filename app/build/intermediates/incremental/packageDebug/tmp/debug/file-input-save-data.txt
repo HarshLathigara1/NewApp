@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Fri Dec 06 09:51:33 PST 2019
+1.base=C\:\\Users\\BholeSai\\Downloads\\NewApp\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+2.path=fonts/AVANT_1.TTF
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\BholeSai\\Downloads\\NewApp\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\BholeSai\\Downloads\\NewApp\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+2.baseType=DIRECTORY
+1.path=classes.dex

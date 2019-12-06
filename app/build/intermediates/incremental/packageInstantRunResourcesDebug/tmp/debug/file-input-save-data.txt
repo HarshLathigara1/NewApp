@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 07 10:25:48 IST 2019
+0.baseType=DIRECTORY
+0.base=E\:\\NewApp\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=fonts/AVANT_1.TTF
+0.set=ASSET
+count=1

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+    tools:context=".ChatActivity">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_above="@id/constraint">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/messages_List"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/constraint" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <android.support.constraint.ConstraintLayout
+        android:id="@+id/constraint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white">
+
+        <EditText
+            android:id="@+id/edtChat"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_marginEnd="8dp"
+            android:ems="10"
+            android:hint="Enter Your Message"
+            android:inputType="textPersonName"
+            app:layout_constraintEnd_toStartOf="@+id/btnSendMessage"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/btnSendMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:layout_marginEnd="7dp"
+            android:adjustViewBounds="false"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/sendiconnew" />
+    </android.support.constraint.ConstraintLayout>
+</RelativeLayout>
